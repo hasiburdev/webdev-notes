@@ -1,3 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [CSS](./css.md)
+- [SASS](./sass.md)
+- [JavaScript](./javascript.md)
+- [GraphQL](./graphql.md)
